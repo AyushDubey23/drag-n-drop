@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/GitHub/drag-n-drop"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
